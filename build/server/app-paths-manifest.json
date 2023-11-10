@@ -1,0 +1,7 @@
+{
+  "/_not-found": "app/_not-found.js",
+  "/csvStepper/page": "app/csvStepper/page.js",
+  "/page": "app/page.js",
+  "/policy/page": "app/policy/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js"
+}
